@@ -1,0 +1,5 @@
+module hello
+
+go 1.16
+
+require github.com/zeromicro/go-zero v1.5.2
